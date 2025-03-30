@@ -26,7 +26,7 @@
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/your-username/intelligent-manufacturing-recognition.git
+git clone https://github.com/Romanticmachine/MNIST_OCR
 cd intelligent-manufacturing-recognition
 ```
 
